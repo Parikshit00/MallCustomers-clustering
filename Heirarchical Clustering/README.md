@@ -8,7 +8,7 @@ Elbow method is used.
 ![Elbow method](https://github.com/Parikshit00/Customers-clustering-using-K-means-and-Heirarchical-Clustering/blob/master/Images/k1.png)
 
 
-From this graph, it can be observed that appropriate number of cluster is 5.
+From this graph, it can be observed that the appropriate number of cluster is 5.
 
 ### Step 3:Fitting the K-means algorithm
 
